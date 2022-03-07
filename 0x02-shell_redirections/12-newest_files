@@ -1,0 +1,2 @@
+#!/bin/bash
+lws -1t | head -10
